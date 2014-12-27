@@ -1,0 +1,10 @@
+*.fla
+*.swf
+Screenshots
+Thumbnails
+.settings
+.actionScriptProperties
+.project
+_actionScriptProperties
+_flashProjectProperties
+_project
